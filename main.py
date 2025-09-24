@@ -196,4 +196,6 @@ elif check == 5:
     user.updateDetails()
 elif check == 6 :
     user.deleteAccount()
+else :
+    print("type valid response")
   
