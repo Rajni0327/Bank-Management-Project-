@@ -2,6 +2,8 @@
 
 A simple command-line banking application built with Python that allows users to manage bank accounts with basic operations like account creation, deposits, withdrawals, and account management.
 
+![](https://github.com/Rajni0327/Bank-Management-Project-/blob/main/image.png)
+
 ## Features
 
 - **Create Account**: Register a new bank account with personal details
@@ -112,4 +114,5 @@ The application includes basic error handling for:
 - Insufficient funds during withdrawal
 - Invalid account credentials
 - Missing data file
+
 
